@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/flatpak/qt-flatpak-demo/archive/v1.1.1.tar.gz",
-                    "sha256": "7cf1b13b8a20b7130e29859f384fb496cc1b5a2b4661e233785a371cab40a863"
+                    "url": "https://github.com/flatpak/qt-flatpak-demo/archive/v1.1.2.tar.gz",
+                    "sha256": "1a1cc5d0f06ad949d6854c772ec9624b8856a0a4f880355f51058bc0dd52ba7a"
                 }
             ]
         }
