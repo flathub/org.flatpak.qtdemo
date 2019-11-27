@@ -19,9 +19,9 @@
             "config-opts": ["-DCMAKE_BUILD_TYPE=RelWithDebInfo"],
             "sources": [
                 {
-                    "type": "archive",
-                    "url": "https://github.com/flatpak/qt-flatpak-demo/archive/v1.1.3.tar.gz",
-                    "sha256": "60eb65f51d2225b2405a39f92332819f7cefef050e132135008eddf297fa2a56"
+                    "type": "git",
+                    "url": "https://github.com/flatpak/qt-flatpak-demo.git",
+                    "commit": "d2fb9ae50d91fcb1ffbe69999496c7f2a0f7d02b"
                 }
             ]
         }
