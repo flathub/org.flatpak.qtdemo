@@ -1,7 +1,7 @@
 {
     "app-id": "org.flatpak.qtdemo",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.15",
+    "runtime-version": "5.15-21.08",
     "sdk": "org.kde.Sdk",
     "command": "flatpak-demo",
     "finish-args": [
@@ -21,7 +21,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/flatpak/qt-flatpak-demo.git",
-                    "commit": "d2fb9ae50d91fcb1ffbe69999496c7f2a0f7d02b"
+                    "commit": "3965f1bd5b0e168b59fccdb4de3327246cde2754"
                 }
             ]
         }
