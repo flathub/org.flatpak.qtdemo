@@ -21,7 +21,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/flatpak/qt-flatpak-demo.git",
-                    "commit": "3965f1bd5b0e168b59fccdb4de3327246cde2754"
+                    "commit": "98c4fae05d145c016438fb9ca147c12011cbe8bc"
                 }
             ]
         }
